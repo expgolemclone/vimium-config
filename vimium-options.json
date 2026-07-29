@@ -1,0 +1,5 @@
+{
+  "settingsVersion": "2.4.0",
+  "linkHintCharacters": "fdsaqwertgvcxz",
+  "userDefinedLinkHintCss": "div > .vimiumHintMarker {\n  background: #7dd3fc;\n  border: 2px solid #0369a1;\n  border-radius: 6px;\n  box-shadow: 0 2px 8px rgba(3, 105, 161, 0.45);\n  padding: 4px 7px;\n}\n\ndiv > .vimiumHintMarker span {\n  color: #082f49;\n  font-size: 18px;\n  font-weight: 700;\n  line-height: 1.2;\n  text-shadow: none;\n}\n\ndiv > .vimiumHintMarker > .matchingCharacter {\n  color: #075985;\n}"
+}
