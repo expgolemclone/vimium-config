@@ -7,6 +7,10 @@ Vimiumの設定ファイルです.
 - Link Hintsで使う文字を`fdsaqwertgvcxz`に限定.
 - Link Hintsを水色に変更.
 - Link Hintsの文字サイズを18pxに拡大.
+- `d`で現在のtabを閉じる.
+- `x`の標準のtab close mappingを無効化.
+
+`d`は標準ではhalf page downですが, この設定では`removeTab`に上書きしています.
 
 ## Import
 
