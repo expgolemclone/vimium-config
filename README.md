@@ -7,9 +7,12 @@ Vimiumの設定ファイルです.
 - Link Hintsで使う文字を`fdsaqwertgvcxz`に限定.
 - Link Hintsを水色に変更.
 - Link Hintsの文字サイズを18pxに拡大.
+- `z`で下方向にscroll.
+- `x`で上方向にscroll.
+- `j`と`k`の標準scroll mappingを無効化.
 - `d`で現在のtabを閉じる.
-- `x`の標準のtab close mappingを無効化.
 
+`x`は標準では現在のtabを閉じますが, この設定では`scrollUp`に上書きしています.
 `d`は標準ではhalf page downですが, この設定では`removeTab`に上書きしています.
 
 ## Import
