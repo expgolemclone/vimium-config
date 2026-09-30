@@ -17,7 +17,10 @@ Vimiumの設定ファイルです.
 
 ## Import
 
-VimiumのOptionsを開き, `Backup and Restore`から`vimium-options.json`をimportします.
+Microsoft EdgeへVimiumをinstallまたは有効化し, VimiumのOptionsを開き,
+`Backup and Restore`から`vimium-options.json`をimportします. import後に通常の
+web pageをreloadし, `f`でLink Hints, `z`/`x`でscroll, `d`でtab closeが動くことを
+確認します.
 
 ## Troubleshooting
 
